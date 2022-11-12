@@ -4,5 +4,13 @@ Hi, I'm Dominic. I'm an enthusiast, problem solver and an Excel guru with an int
 
 ## Contents
 ### Data Analysis and Visualisation 
-#### **MySQL & PowerBI**
-- Sales analysis
+#### **SQL**
+- [Case Study - Bike start-up company](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Sales_analysis_bike_startup) : Sales analysis of 
+a bike-startup company to build a senior management dashboard for C-Suite. 
+
+
+
+
+
+
+- [Data exploration - CovidDeaths](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Data%20exploration%20-%20CovidDeaths%20vs%20Vaccinations) : Basic analysis of infection and death caused by COVID as at Sep 2021. SQL code used in this project is [here](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/CovidDeath%20vs%20Vaccination.sql)
