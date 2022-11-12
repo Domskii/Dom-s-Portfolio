@@ -62,4 +62,7 @@ month	      Churn_rate_87	      Churn_rate_30
 2017-01-01	0.0793650793650794	0.0181219110378913
 2017-02-01	0.149494949494949	  0.0287443267776097
 2017-03-01	0.302107728337237	  0.0708263069139966
+
+Based on the output, we can tell Churn_rate_30 is out-performing Segment 87.
+This could imply products in segment 30 is better, or their marketing is working better.
 */
