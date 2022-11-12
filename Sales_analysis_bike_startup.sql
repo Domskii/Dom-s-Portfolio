@@ -1,8 +1,6 @@
-#Sales Analysis
+### Case study: Sales Analysis for a bike company
+In this noteook, we're going to analyse sales performance for an Australian-based start-up company who provies outdoor adventure and sporting products nation-wide.
 
-
-
-Dashboard Making Process
 
 # 1. Questioning
 
