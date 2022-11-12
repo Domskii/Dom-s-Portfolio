@@ -9,7 +9,7 @@ In the Data Science Path Cumulative Project, we have partnered with the Twitch S
 
 Purpose of this project is to explore data in twitch gaming dataset
 
-
+- [SQL code](https://github.com/Domskii/Data_analysis_Portfolio/edit/main/Twitch%20Gaming/SQL%20code.sql)
 
 
 
