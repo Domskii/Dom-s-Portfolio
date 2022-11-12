@@ -1,56 +1,3 @@
-Insights
-
-# 1. Trendline Graph
-
-The company had ups and downs with its sales revenue until January 2016 and then they started to grow.
-The company's profit is not growing as much as its revenue, in fact, the gap is getting larger. Company's profit is suffering
-
-This could mean either product cost is too expensive or the price is too low, which CEO would need to review in further detail.
-
-# 2. Average revenue vs Customer Acquisition cost
-
-Explain ARPC & CAC→ Difference between these two, for now, seems ok (about 38%) → Set date range to 2017  
-The difference between the two is $100, which is about 12% profit margin from new customers.
-
-This indicates acquiring new customers is not efficient. It appears targeting existing customers is the smarter move here.
-
-# 3. Sales % by New customers
-
-The why new customers are expensive could be because they already have new customers. But didn't manage to retain them.
-This pie graph shows lots of customers only made one-off purchases which indicates customers are not really coming back for more.
-
-This could be because of many reasons such as poor product quality, customer service or simply because of the nature of business. 
-
-# 4. Sales % by Product
-
-What I mean by this is if you have at the table above, you can see that the company's revenue stream is highly-focused on bike sales. But the profit margin % is the lowest (41.15%).
-On the other hand, Accessories sales are only at 3.3% although the profit margin % is highest at 62.8%
-
-This could be an opportunity for the company to upsell or cross-sell these products that as they have healthier margins %. They can start by creating a very targeted campaign.
-
-# 5. 0 sales in the 'Component' product category.
-
-And there is another problem, you may not have noticed from the Visuals, but the company has made 0 sales on component products.
-This means two things, their components are not competitive in the market or customers don't know what to do with the components. What they really need can be a bike-repair service, not just parts. Also, components themselves can be bought easily online.
-This can be an opportunity to consider providing bike-repair services that entail three benefits for the company.
-
-1. The company can sell components.
-2. With good product and services quality, customers will be returning.
-3. The company gains a competitive advantage in the market as its service is more personalized to each individual customer which will help with engagement.
-
-But this is only a suggestion and it is up to the CEO to decide the company's directions.
-
-# 6. Conclusion
-
-The problem of the company is their profit margin rate is suffering due to a lack of returning customers. Rather than trying to branch or reach out to new customers, Wonderland should really focus on selling products with healthier margins (Like Accessories) to existing customers. This can be done by 
-
-- Reviewing their customer service.
-- Reviewing their cost and prices
-- Providing good deals on accessories products to customers who need them.
-- Providing bike-repair services to customers.
-
-They can start targeting the regions with the most sales like  NSW or Victoria. 
-
 Dashboard Making Process
 
 # 1. Questioning
@@ -113,4 +60,57 @@ WHERE row_num > 1
 - **Product Return rate**
 
 *SQL Code available on request
+
+Insights
+
+# 1. Trendline Graph
+
+The company had ups and downs with its sales revenue until January 2016 and then they started to grow.
+The company's profit is not growing as much as its revenue, in fact, the gap is getting larger. Company's profit is suffering
+
+This could mean either product cost is too expensive or the price is too low, which CEO would need to review in further detail.
+
+# 2. Average revenue vs Customer Acquisition cost
+
+Explain ARPC & CAC→ Difference between these two, for now, seems ok (about 38%) → Set date range to 2017  
+The difference between the two is $100, which is about 12% profit margin from new customers.
+
+This indicates acquiring new customers is not efficient. It appears targeting existing customers is the smarter move here.
+
+# 3. Sales % by New customers
+
+The why new customers are expensive could be because they already have new customers. But didn't manage to retain them.
+This pie graph shows lots of customers only made one-off purchases which indicates customers are not really coming back for more.
+
+This could be because of many reasons such as poor product quality, customer service or simply because of the nature of business. 
+
+# 4. Sales % by Product
+
+What I mean by this is if you have at the table above, you can see that the company's revenue stream is highly-focused on bike sales. But the profit margin % is the lowest (41.15%).
+On the other hand, Accessories sales are only at 3.3% although the profit margin % is highest at 62.8%
+
+This could be an opportunity for the company to upsell or cross-sell these products that as they have healthier margins %. They can start by creating a very targeted campaign.
+
+# 5. 0 sales in the 'Component' product category.
+
+And there is another problem, you may not have noticed from the Visuals, but the company has made 0 sales on component products.
+This means two things, their components are not competitive in the market or customers don't know what to do with the components. What they really need can be a bike-repair service, not just parts. Also, components themselves can be bought easily online.
+This can be an opportunity to consider providing bike-repair services that entail three benefits for the company.
+
+1. The company can sell components.
+2. With good product and services quality, customers will be returning.
+3. The company gains a competitive advantage in the market as its service is more personalized to each individual customer which will help with engagement.
+
+But this is only a suggestion and it is up to the CEO to decide the company's directions.
+
+# 6. Conclusion
+
+The problem of the company is their profit margin rate is suffering due to a lack of returning customers. Rather than trying to branch or reach out to new customers, Wonderland should really focus on selling products with healthier margins (Like Accessories) to existing customers. This can be done by 
+
+- Reviewing their customer service.
+- Reviewing their cost and prices
+- Providing good deals on accessories products to customers who need them.
+- Providing bike-repair services to customers.
+
+They can start targeting the regions with the most sales like  NSW or Victoria. 
 
