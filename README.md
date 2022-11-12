@@ -8,9 +8,9 @@ Hi, I'm Dominic. I'm an enthusiast, problem solver and an Excel guru with an int
 - [Case Study - Bike start-up company](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Sales_analysis_bike_startup) : Sales analysis of 
 a bike-startup company to build a senior management dashboard for C-Suite. [Dashboard result](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Capture.PNG)
 
+- 
 
-
-
+- [Twitch Gaming Data exploration](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Twitch%20Gaming/Twitch%20Gaming%20Analysis.md) : This is a practice project as part of a SQL course in Codeacademy.
 
 - [Data manipulation - Nashville housing Data](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Nashville%20housing%20data%20cleansing.sql) : The purpose of this project is to be able to clean and manipulate data within SQL database. [Dataset](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning%20(2).xlsx) contains information about housing sales within a region called 'Nashville' in USA. 
 
