@@ -6,7 +6,7 @@ Hi, I'm Dominic. I'm an enthusiast, problem solver and an Excel guru with an int
 ### Data Analysis and Visualisation 
 #### **SQL**
 - [Case Study - Bike start-up company](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Sales_analysis_bike_startup) : Sales analysis of 
-a bike-startup company to build a senior management dashboard for C-Suite. 
+a bike-startup company to build a senior management dashboard for C-Suite. [Dashboard result](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Capture.PNG)
 
 
 
