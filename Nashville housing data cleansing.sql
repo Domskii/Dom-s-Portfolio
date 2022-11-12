@@ -1,7 +1,4 @@
 
---The purpose of this project is to be able to clean and manipulate data within SQL database.
---Dataset contains information about housing sales in a region called 'Nashville' in USA
-
 Select *
 FROM PortfolioProject..[Nashville-housing]
 
