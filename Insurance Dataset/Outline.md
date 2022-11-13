@@ -6,8 +6,6 @@ At our insurance company, the examiners (aka claim specialists) are tasked with 
 
 Our job is to determine how long an examiner has until they are required to use the Reserving Tool, and if they are already past their due date, how many days they have been overdue.  And we will need to do this for all the claims assigned to all of our examiners.
 
-Project Steps
-1. the last date a claimant re-opened claim
-2. the date an examiner was assigned a claim
-3. the last date an examiner published on the Reserving Tool for each claim
-4. Gather information on ReservingTool's underlying claims - Joining different tables
+The purpose of this project is to create a Stored Procedure that retrieves all the relevant information from complex data model.
+
+SQL CODE is [here](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Insurance%20Dataset/Insurance.sql)
