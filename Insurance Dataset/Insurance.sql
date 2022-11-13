@@ -126,5 +126,3 @@ WHERE (@DaysTocomplete IS Null or DaysToComplete <= @DaysToComplete)
 		AND (@ClaimsWithoutRTPublish = 0 OR LastPublishedDate IS NULL)
 
 END
-
-SPGetOutstandingRTPublish @ClaimsWithoutRTPublish = 1
