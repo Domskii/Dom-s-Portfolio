@@ -16,3 +16,8 @@ segment - this identifies which segment the subscription owner belongs to
 Codeflix requires a minimum subscription length of 31 days, so a user can never start and end their subscription in the same month.
 
 SQL Code is [here](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Calculating%20Churn%20Rates/SQL%20Code.sql)
+
+```sql
+select MIN(subscription_start), max(subscription_start)
+from subscriptions
+```
