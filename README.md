@@ -1,6 +1,6 @@
 # Data analysis Portfolio
 ## About me
-Hi, I'm Dominic. I'm an enthusiast, problem solver and an Excel guru with an interest in Data science. I've worked in a bank for 4+ years as a Risk specialist, but switched to data science / analytics. This is a repository to showcase my technical skills, share projects and track my progress in Data Analytics / Data Science related topics.
+Hi, I'm Dominic. I've worked in a bank for 4+ years as a Risk analyst, but switched to data science / analytics. This is a repository to showcase my technical skills with Data Analytics, share projects and track my progress.
 
 ## Contents
 ### Data Analysis and Visualisation 
