@@ -5,8 +5,6 @@ Hi, I'm Dominic. I've worked in a bank for 4+ years as a Risk analyst, but switc
 ## Contents
 ### Data Analysis and Visualisation 
 #### **SQL**
-- [SQL Programming - Insurance dataset](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Insurance%20Dataset/Outline.md): Analysis on Insurance data. This dataset is modelled in a very complicated way to reflect real-life data analytics environment in a financial industry. The purpose of this project is to create a Stored Procedure that retrieves key information from Big data. Database diagram is [here](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Insurance%20Dataset/Insurance%2BDatabase%2BDiagram%2B-%2BAnnotated%20(1).pdf). SQL code is [here](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Insurance%20Dataset/Insurance.sql)
-
 - [Case Study - Bike start-up company](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Sales_analysis_bike_startup) : Sales analysis of 
 a bike-startup company to build a senior management dashboard for C-Suite. [Dashboard result](https://github.com/Domskii/Data_analysis_Portfolio/blob/main/Case%20Study/Bike%20startup/Capture.PNG)
 
