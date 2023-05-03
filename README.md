@@ -4,7 +4,7 @@
                                                                                                        
 - 🌱 I’m currently learning **Python Programming and algorithms.**
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/Domskii/Doms-Portfolio/blob/main/Portfolio.md)
+- 👨‍💻 All of my projects are available through [this link](https://github.com/Domskii/Doms-Portfolio/blob/main/Portfolio.md)
 
 - 📫 How to reach me **domskii85@gmail.com**
 
