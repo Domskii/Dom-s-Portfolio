@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic Koo</h1>
-- 👨‍💻 All of my projects are available [here](https://github.com/Domskii/Doms-Portfolio)
+- 👨‍💻 All of my projects are available [here](https://github.com/Domskii/Doms-Portfolio/blob/main/Portfolio.md)
 
 - 📫 How to reach me **domskii85@gmail.com**
 
