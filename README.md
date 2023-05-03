@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dominic Koo</h1>
-<h4 align="left">Data analyst skilled in creating automated reports, dashboards, and visualizations that provide actionable insights to stakeholders and help save the most crucial resources in the world, time and money.</h3>
+<h4 align="left">Data analyst skilled in creating automated reports, dashboards, and visualizations that provide actionable insights save stakeholders' time and money.</h3>
                                                                                                        
 - 🌱 I’m currently learning **Python Programming and algorithms.**
 
