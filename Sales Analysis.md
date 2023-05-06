@@ -1,41 +1,23 @@
 Superstore Dataset Analysis
 
-1. Ask
+Project: Sales Analysis for an Online Retailer
 
-Client's problem: Demand grows big so is the competition. They need help some knowledge on their Sales Performance.
-This includes anaysis on products, regions, categories, and customer segments which they should target or avoid.
+Problem: An online retailer wants to analyze their sales data to identify trends and opportunities for growth.
 
-2. Prepare
-Dataset is obtained from [link](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+Data: A dataset of sales data for the online retailer, including information on customer demographics, purchase history, and product information.
 
-| Column Name | Data Type | Description                                        |
-|-------------|----------|----------------------------------------------------|
-| Row ID      | Integer  | Unique identifier for each row of data             |
-| Order ID    | String   | Unique identifier for each order                   |
-| Order Date  | Date     | Date the order was placed                           |
-| Ship Date   | Date     | Date the order was shipped                          |
-| Ship Mode   | String   | Method used to ship the order                       |
-| Customer ID | String   | Unique identifier for each customer                 |
-| Customer Name | String | Name of the customer                                |
-| Segment     | String   | The segment the customer belongs to (e.g. consumer, corporate) |
-| Country     | String   | Country where the order was placed                  |
-| City        | String   | City where the order was placed                     |
-| State       | String   | State where the order was placed                    |
-| Postal Code | Integer  | Postal code where the order was placed              |
-| Region      | String   | Region where the order was placed                    |
-| Product ID  | String   | Unique identifier for each product                  |
-| Category    | String   | The category the product belongs to (e.g. furniture, office supplies) |
-| Sub-Category | String  | The sub-category the product belongs to (e.g. bookcases, chairs, labels) |
-| Product Name | String  | Name of the product                                  |
-| Sales       | Float    | Total sales amount for the product                   |
-| Quantity    | Integer  | Number of units ordered                              |
-| Discount    | Float    | Discount applied to the product                       |
-| Profit      | Float    | Profit made on the product (sales - cost)             |
+Approach:
 
-3. Process
+Data Cleaning: Clean and preprocess the sales data to ensure that it is accurate and consistent.
 
-4. Analyse
+Exploratory Data Analysis: Use visualizations and descriptive statistics to explore the sales data and identify patterns and trends.
 
-5. Share
+Customer Segmentation: Use clustering algorithms to segment customers into groups based on their purchase history, demographics, or other factors.
 
-6. Act
+Product Analysis: Analyze the sales data to identify which products are most popular, which products generate the most revenue, and which products have the highest profit margins.
+
+Recommendations: Develop recommendations for how the online retailer can increase sales and improve customer engagement based on the insights gained from the sales analysis.
+
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+By showcasing this project in your portfolio, you can demonstrate your ability to analyze sales data, develop insights, and provide actionable recommendations to help businesses grow.
