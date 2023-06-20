@@ -11,6 +11,9 @@
 - Data contains a list of video games with sales greater than 100,000 copies,  scraped from vgchartz.com.([Dataset]([https://www.kaggle.com/datasets/ishivamkedia/email-marketing-data-analysis?select=Email+Marketing+Analysis.pbix](https://www.kaggle.com/datasets/gregorut/videogamesales)))
 - Helps users to conduct analysis on the video game Market to identify Sales trends and spot potential opportunities. 
 
+# SQL Projects
+##
+
 
 # Python Projects
 ## [Project 1: Stock Market analysis](https://github.com/Domskii/Doms-Portfolio/blob/main/Data%20Project%20-%20Stock%20Market%20Analysis.ipynb)
