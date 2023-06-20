@@ -1,3 +1,9 @@
+# Python Projects
+## [Project 1: Stock Market analysis](https://github.com/Domskii/Doms-Portfolio/blob/main/Data%20Project%20-%20Stock%20Market%20Analysis.ipynb)
+- The purpose of this project is to analyse the risks of technology stocks based on their previous performance data.
+- Found the correlation between the four technology stocks (Google, Amazon, Apple and Microsoft) and which stock yields the most return and their risks
+- Data was retrieved from Yahoo Finance using Pandas_datareader and yfinance library.
+
 # Power BI Projects
 
 ## [Project 1: Email Marketing Analysis](https://app.powerbi.com/groups/me/reports/8e2adc01-0d22-4d78-9639-63b423accb0a/ReportSection)
@@ -13,10 +19,3 @@
 
 # SQL Projects
 ##
-
-
-# Python Projects
-## [Project 1: Stock Market analysis](https://github.com/Domskii/Doms-Portfolio/blob/main/Data%20Project%20-%20Stock%20Market%20Analysis.ipynb)
-- The purpose of this project is to analyse the risks of technology stocks based on their previous performance data.
-- Found the correlation between the four technology stocks (Google, Amazon, Apple and Microsoft) and which stock yields the most return and their risks
-- Data was retrieved from Yahoo Finance using Pandas_datareader and yfinance library.
